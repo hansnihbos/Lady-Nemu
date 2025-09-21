@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43.17 11.11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccb8db;
+      }
+
+      .cls-2 {
+        fill: #4e3261;
+      }
+
+      .cls-3 {
+        fill: #faedf8;
+      }
+
+      .cls-4 {
+        fill: #16111a;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <g>
+          <g>
+            <rect class="cls-3" x=".46" y=".46" width="10.2" height="10.2" rx=".46" ry=".46"/>
+            <path class="cls-4" d="M10.2.92v9.28H.92V.92h9.28M10.2,0H.92C.41,0,0,.41,0,.92v9.28c0,.51.41.92.92.92h9.28c.51,0,.92-.41.92-.92V.92c0-.51-.41-.92-.92-.92h0Z"/>
+          </g>
+          <rect class="cls-1" x=".92" y="9.26" width="9.28" height=".94"/>
+        </g>
+        <rect class="cls-2" x="2.94" y="7.23" width="5.24" height=".99"/>
+      </g>
+      <g>
+        <g>
+          <g>
+            <rect class="cls-3" x="16.49" y=".46" width="10.2" height="10.2" rx=".46" ry=".46"/>
+            <path class="cls-4" d="M26.22.92v9.28h-9.28V.92h9.28M26.22,0h-9.28c-.51,0-.92.41-.92.92v9.28c0,.51.41.92.92.92h9.28c.51,0,.92-.41.92-.92V.92c0-.51-.41-.92-.92-.92h0Z"/>
+          </g>
+          <rect class="cls-1" x="16.95" y="9.26" width="9.28" height=".94"/>
+        </g>
+        <path class="cls-2" d="M19.08,3.07v5.28h5.01V3.07h-5.01ZM23.64,7.88h-4.11v-2.86h4.11v2.86Z"/>
+      </g>
+      <g>
+        <g>
+          <g>
+            <rect class="cls-3" x="32.51" y=".46" width="10.2" height="10.2" rx=".46" ry=".46"/>
+            <path class="cls-4" d="M42.25.92v9.28h-9.28V.92h9.28M42.25,0h-9.28c-.51,0-.92.41-.92.92v9.28c0,.51.41.92.92.92h9.28c.51,0,.92-.41.92-.92V.92c0-.51-.41-.92-.92-.92h0Z"/>
+          </g>
+          <rect class="cls-1" x="32.97" y="9.26" width="9.28" height=".94"/>
+        </g>
+        <polygon class="cls-2" points="40.53 3.15 38.68 3.15 37.61 4.54 36.54 3.15 34.69 3.15 36.69 5.74 34.69 8.32 36.54 8.32 37.61 6.94 38.68 8.32 40.53 8.32 38.54 5.74 40.53 3.15"/>
+      </g>
+    </g>
+  </g>
+</svg>
